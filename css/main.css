@@ -21,9 +21,14 @@ nav ul li {
     color: #FFFFFF !important;
 }
 
+footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
 footer ul li {
     display: inline;
     margin-right: 20px;
+    color: #C8C8C8;
 }
 
 a {
@@ -35,9 +40,6 @@ a:hover {
     text-decoration: underline;
 }
 
-a:visited { 
-  color: #C8C8C8;
-}
 
 h1 {
     font-size: 3em;
