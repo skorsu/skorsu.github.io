@@ -16,14 +16,6 @@ nav ul {
     color: #FFFFFF
 }
 
-footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-    color: #000000 !important;
-}
-
 nav ul li {
     display: inline;
     margin-right: 20px;
