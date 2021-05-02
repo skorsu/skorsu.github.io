@@ -8,7 +8,7 @@ nav {
     padding: 1px;
 }
 
-nav ul {
+nav ul li a{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
