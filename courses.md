@@ -1,15 +1,14 @@
-# Catnip College
-- STAT 101: Introduction to Feline Statistics
-- STAT 201: Bayesian Inference for Cat Behavior
-- STAT 301: Machine Learning for Cat Health
-# Cat State University
-- STAT 501: Advanced Topics in Feline Regression Models
-# Meow-vard University
-- MATH 101: Calculus for Cats
-Note: Course offerings are subject to change each semester. Please refer to the official course catalog for the most up-to-date information.
+# Course Development
+  - STAT 258
 
-
-
-
-
-
+# Graduate Teaching Assistant/Graduate Student Instructor
+## Colorado State University
+  - STAT 301: Introduction to Applied Statistical Methods (SP23, FA22)
+  - STAT 440: Bayesian Data Analysis (SP23)
+  - STAA 566: Data Visualization Methods (FA22)
+  - STAR 511: Design and Data Analysis for Researchers I (SP22, FA21)
+  - STAT 201: General Statistics SP22 (SP22: 2)
+  - STAT 204: Statistics with Business Applications FA21 (FA21: 2)
+  
+## University of Michigan – Ann Arbor
+  - STATS 412: Introduction to Probability & Statistics (FA20)
