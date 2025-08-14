@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "skorsu.github.io",
+    "title": "Suppapat Korsurat",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Kevin! I’m a fifth-year Ph.D. candidate in Statistics at Colorado State University, where I work with Dr. Matthew Koslovsky. My research focuses on applying Bayesian methods to analyze complex biological data. I develop techniques for handling zero-inflated and high-dimensional datasets, with an emphasis on scalability. Beyond Bayesian statistics, I am also interested in computational statistics. In terms of applications, I work with human microbiome data and disease detection. I am also passionate about creating R packages to make statistical tools more accessible to researchers.\nPreviously, I earned my master’s degree in Applied Statistics from the University of Michigan–Ann Arbor and my bachelor’s degree in Mathematical Statistics from Chulalongkorn University in Thailand.\nEmail: skorsu [at] colostate [dot] edu"
   },
   {
     "objectID": "about.html",
