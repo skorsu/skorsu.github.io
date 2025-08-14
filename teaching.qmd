@@ -1,0 +1,62 @@
+---
+title: "Teaching"
+---
+
+Here is a list of the courses I have taught, graded, and mentored:
+
+## Colorado State University
+
+### Instructor
+
+|                                                         |                                                |
+|:--------------------------------------|--------------------------------:|
+| STAT 302A - Statistics Supplement: General Applications |                                      Fall 2025 |
+| STAT 307 - Introduction to Biostatistics                |                                      Fall 2024 |
+| STAT 301 - Introduction to Applied Statistical Methods  | Spring 2024, Fall 2023, Spring 2022, Fall 2022 |
+
+### Research Mentor
+
+|                                                         |             |
+|:--------------------------------------------------------|------------:|
+| STAT 472 - Statistical Research\--Design, Data, Methods | Spring 2024 |
+
+### Recitation Instructor
+
+|                                                  |             |
+|:-------------------------------------------------|------------:|
+| STAT 201 - General Statistics                    | Spring 2022 |
+| STAT 204 - Statistics With Business Applications |   Fall 2021 |
+
+### Course Developer
+
+|                                   |             |
+|:----------------------------------|------------:|
+| STAT 258 - Advanced R Programming | Summer 2023 |
+
+### Grader
+
+|                                                       |                        |
+|:------------------------------------------------|---------------------:|
+| STAA 567 - Computational and Simulation Methods       |              Fall 2025 |
+| STAT 331 - Intermediate Applied Statistical Methods   |              Fall 2025 |
+| STAA 553 - Experimental Design                        |            Spring 2024 |
+| STAT 670 - Bayesian Statistics                        |              Fall 2024 |
+| STAT 540 - Data Analysis and Regression               |              Fall 2023 |
+| STAT 440 - Bayesian Data Analysis                     |            Spring 2023 |
+| STAA 566 - Data Visualization Methods                 |              Fall 2022 |
+| STAR 511 - Design and Data Analysis for Researchers I | Spring 2022, Fall 2021 |
+
+### Short Course Instructor/Facilitator
+
+|                                                       |                      |
+|:--------------------------------------------------|--------------------:|
+| Coding & Cookies - Python 101: Introduction to Python |          Spring 2025 |
+| Coding & Cookies - Tidy Data in R                     | Fall 2024, Fall 2023 |
+
+## University of Michigan
+
+### Grader
+
+|                                                       |           |
+|:------------------------------------------------------|----------:|
+| STATS412 - Introduction to Probability and Statistics | Fall 2020 |

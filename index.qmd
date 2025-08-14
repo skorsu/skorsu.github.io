@@ -1,10 +1,17 @@
 ---
-title: "Suppapat Korsurat"
+image: media/pic.JPG
+about: 
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/skorsu
+    - icon: envelope-fill
+      text: Email
+      href: mailto:skorsu@colostate.edu
 ---
 
-Hi, I’m Kevin! I’m a fifth-year Ph.D. candidate in Statistics at Colorado State University, where I work with Dr. Matthew Koslovsky. My research focuses on applying Bayesian methods to analyze complex biological data. I develop techniques for handling zero-inflated and high-dimensional datasets, with an emphasis on scalability. Beyond Bayesian statistics, I am also interested in computational statistics. In terms of applications, I work with human microbiome data and disease detection. I am also passionate about creating R packages to make statistical tools more accessible to researchers.
+Hi, I'm Kevin! I'm a fifth-year Ph.D. candidate in [Statistics](https://statistics.colostate.edu) at Colorado State University, where I work with [Dr. Matthew Koslovsky](https://mkoslovsky.quarto.pub/matt-koslovsky/). My research focuses on applying Bayesian methods to analyze complex biological data. I develop techniques for handling zero-inflated and high-dimensional datasets, with an emphasis on scalability. Beyond Bayesian statistics, I am also interested in computational statistics. In terms of applications, I work with human microbiome data and disease detection. I am also passionate about creating R packages to make statistical tools more accessible to researchers.
 
-Previously, I earned my master’s degree in Applied Statistics from the University of Michigan–Ann Arbor and my bachelor’s degree in Mathematical Statistics from Chulalongkorn University in Thailand.
+Previously, I earned my master's degree in Applied Statistics from the University of Michigan--Ann Arbor and my bachelor's degree in Statistics from Chulalongkorn University in Thailand.
 
-
-Email: skorsu \[at\] colostate \[dot\] edu
